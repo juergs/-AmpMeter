@@ -12,3 +12,6 @@ Circuit characteristics:
 1. range channel A: ± 20mA 5½-6½ digit µA
 2. range channel B: ±40mA 5½-6½ digit µA
 3. burden voltage 1µV/1µA (internal resistance 1Ω)
+
+
+Files with ".f3d"-extention are complete Fusion360-Projects for own changes.  
