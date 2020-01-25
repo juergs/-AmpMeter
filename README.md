@@ -7,3 +7,8 @@ with HX711-Module.
 <img src="https://github.com/juergs/-AmpMeter/blob/master/%C2%B5AmpMeter-Geh%C3%A4use-Prototyp_5.2.png" width="300" heigth="150" />
 
 Credits to: https://www.openhardware.io/view/380/Micro-nano-ampere-meter-double
+
+Circuit characteristics:
+1. range channel A: ± 20mA 5½-6½ digit µA
+2. range channel B: ±40mA 5½-6½ digit µA
+3. burden voltage 1µV/1µA (internal resistance 1Ω)
