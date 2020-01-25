@@ -6,6 +6,8 @@ with HX711-Module.
 
 <img src="https://github.com/juergs/-AmpMeter/blob/master/%C2%B5AmpMeter-Geh%C3%A4use-Prototyp_5.2.png" width="300" heigth="150" />
 
+<img src="https://github.com/juergs/-AmpMeter/blob/master/%C2%B5AmpMeter-Geh%C3%A4use-Deckel_v1_7.5mm.png" width="300" heigth="150" />
+
 Credits to: https://www.openhardware.io/view/380/Micro-nano-ampere-meter-double
 
 Circuit characteristics:
