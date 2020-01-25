@@ -14,4 +14,4 @@ Circuit characteristics:
 3. burden voltage 1µV/1µA (internal resistance 1Ω)
 
 
-Files with ".f3d"-extention are complete Fusion360-Projects for own changes.  
+Files with ".f3d"-extention are complete Fusion360-Projects for own local project changes.  
