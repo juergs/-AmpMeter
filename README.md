@@ -1,4 +1,4 @@
-# MikroAmpMeter
+# &#181;AmpMeter
 Supporting files for &#181;Amperemeter @ [FHEM-Forum](https://forum.fhem.de/index.php?topic=104466.msg1016949#msg1016949)
 
 
